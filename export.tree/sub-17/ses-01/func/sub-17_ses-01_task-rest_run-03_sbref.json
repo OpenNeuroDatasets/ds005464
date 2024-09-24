@@ -1,0 +1,22 @@
+{ 
+  "Manufacturer": "SIEMENS", 
+  "ManufacturersModelName": "Prisma", 
+  "DeviceSerialNumber": "166018", 
+  "StationName": "AWP166018", 
+  "SoftwareVersions": "syngo MR E11", 
+  "ScanningSequence": "EP", 
+  "SequenceVariant": "SK_SS", 
+  "ScanOptions": "PFP_FS", 
+  "SequenceName": "epfid2d1_92", 
+  "InPlanePhaseEncodingDirection": "COL", 
+  "InstitutionName": "NYU Center for Brain Imaging", 
+  "PhaseEncodingDirection": "j-", 
+  "MagneticFieldStrength": 3, 
+  "EchoTime": 0.0242, 
+  "FlipAngle": 68, 
+  "RepetitionTime": 2, 
+  "BandwidthPerPixelPhaseEncode": 20.509, 
+  "ReconMatrixPE": 92, 
+  "EffectiveEchoSpacing": 0.00052999, 
+  "TotalReadoutTime": 0.048229091
+}

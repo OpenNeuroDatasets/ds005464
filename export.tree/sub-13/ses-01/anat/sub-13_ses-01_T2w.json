@@ -1,0 +1,17 @@
+{ 
+  "Manufacturer": "SIEMENS", 
+  "ManufacturersModelName": "Prisma", 
+  "DeviceSerialNumber": "166018", 
+  "StationName": "AWP166018", 
+  "SoftwareVersions": "syngo MR E11", 
+  "ScanningSequence": "SE", 
+  "SequenceVariant": "SK_SP_OSP", 
+  "ScanOptions": "PFP", 
+  "SequenceName": "*spc_314ns", 
+  "InPlanePhaseEncodingDirection": "ROW", 
+  "InstitutionName": "NYU Center for Brain Imaging", 
+  "MagneticFieldStrength": 3, 
+  "EchoTime": 0.564, 
+  "FlipAngle": 120, 
+  "RepetitionTime": 3.2
+}
