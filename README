@@ -11,4 +11,4 @@ This dataset includes raw fMRI scans of 29 participants (all data were de-identi
 - task-rest_run-03: This is a post-encoding (following learning run 2) resting state scan.
 
 
-For more information about the dataset and about the tasks or the experimental design, please see our paper (a preprint of an earlier version of the manuscript is available at https://doi.org/10.1101/2022.12.14.520481; we will update the link once the paper is published). We have also shared processed/cleaned data files and an analysis script that can be used to recreate all plots and analyses reported in the paper, available at: https://osf.io/vwdu3.
+For more information about the dataset and about the tasks or the experimental design, please see our paper (https://doi.org/10.1073/pnas.2405929121). We have also shared processed/cleaned data files and an analysis script that can be used to recreate all plots and analyses reported in the paper, available at: https://osf.io/vwdu3.
